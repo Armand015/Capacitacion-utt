@@ -78,4 +78,4 @@ La aplicación usa `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` como variable principa
 
 Mientras esas variables no existan en `.env.local`, las pantallas usan los datos mock de `src/features/courses/data.ts`. Cuando se configuren, las rutas leerán cursos desde Supabase usando `src/features/courses/queries.ts`.
 
-Para crear las tablas preliminares, ejecuta el contenido de `supabase/schema.sql` en el SQL Editor de Supabase. Las políticas incluidas permiten lectura pública solo de cursos publicados, módulos y lecciones asociadas.
+Para crear las tablas preliminares, ejecuta el contenido de `supabase/schema.sql` en el SQL Editor de Supabase. Después puedes ejecutar `supabase/seed.sql` para cargar cursos demo. Las políticas incluidas permiten lectura pública solo de cursos publicados, módulos y lecciones asociadas.
