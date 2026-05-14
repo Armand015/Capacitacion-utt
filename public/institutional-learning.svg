@@ -1,0 +1,19 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" fill="#F9EEF2"/>
+  <rect x="80" y="86" width="740" height="448" rx="18" fill="white" stroke="#E5C4CF"/>
+  <rect x="124" y="134" width="300" height="26" rx="6" fill="#1F1F2E"/>
+  <rect x="124" y="180" width="476" height="14" rx="7" fill="#C08A9B"/>
+  <rect x="124" y="208" width="402" height="14" rx="7" fill="#E5C4CF"/>
+  <rect x="124" y="270" width="184" height="150" rx="12" fill="#8A1D38"/>
+  <rect x="334" y="270" width="184" height="150" rx="12" fill="#F0D5DF"/>
+  <rect x="544" y="270" width="184" height="150" rx="12" fill="#4A0F20"/>
+  <circle cx="216" cy="330" r="34" fill="white" fill-opacity="0.9"/>
+  <path d="M197 356h38v10h-38v-10Z" fill="#4A0F20"/>
+  <path d="M201 331h30v17h-30v-17Z" fill="#4A0F20"/>
+  <path d="M394 314h64v12h-64v-12ZM382 344h88v12h-88v-12ZM401 374h50v12h-50v-12Z" fill="#8A1D38"/>
+  <path d="M603 324h66v16h-66v-16ZM603 356h82v12h-82v-12ZM603 384h48v12h-48v-12Z" fill="white"/>
+  <rect x="124" y="454" width="148" height="18" rx="9" fill="#8A1D38"/>
+  <rect x="292" y="454" width="116" height="18" rx="9" fill="#E5C4CF"/>
+  <circle cx="760" cy="146" r="34" fill="#F0D5DF"/>
+  <path d="M744 146h32M760 130v32" stroke="#8A1D38" stroke-width="8" stroke-linecap="round"/>
+</svg>
